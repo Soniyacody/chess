@@ -1,0 +1,4 @@
+1)REcovery mechanism (resiliant failure)
+    use redis for recovery
+2)Scale->10k user
+    pub sub
